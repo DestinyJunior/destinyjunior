@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 checkout my first **nft** 
-(https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/62436017255211550539721406377018435433830091009922031294240557057709657030657/)
 
 <!--
 **DestinyJunior/destinyjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
