@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-checkout my first **nft** 
-
 <!--
 **DestinyJunior/destinyjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
