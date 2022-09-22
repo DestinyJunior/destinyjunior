@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-i am **Destiny**
+i am **Destiny** **MintCode**
 
 Here are some ideas to get you started:
 
