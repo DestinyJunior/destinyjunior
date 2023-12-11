@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-i am **Destiny** **MintCoder**
+I am **Destiny** **MintCoder**
 
 More about me:
 
